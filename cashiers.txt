@@ -1,0 +1,3 @@
+cashier1,password,false
+danush,123,false
+c2,123,false

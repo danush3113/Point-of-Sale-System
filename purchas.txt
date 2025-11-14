@@ -1,0 +1,36 @@
+Receipt
+--------------------
+Product: cat pp
+Quantity: 34
+Price: $300.0
+Total: $10200.0
+Date: 2024-12-01 08:43:11
+--------------------
+
+Receipt
+--------------------
+Product: cat pp
+Quantity: 30
+Price: $300.0
+Total: $9000.0
+Date: 2024-12-23 03:09:51
+--------------------
+
+Receipt
+--------------------
+Product: dog pp
+Quantity: 2
+Price: $2000.0
+Total: $4000.0
+Date: 2024-12-25 17:16:26
+--------------------
+
+Receipt
+--------------------
+Product: cat pp
+Quantity: 34
+Price: $300.0
+Total: $10200.0
+Date: 2024-12-25 17:48:03
+--------------------
+
